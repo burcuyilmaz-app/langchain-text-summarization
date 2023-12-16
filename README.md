@@ -1,4 +1,4 @@
-# 🦜🔗 Langchain - Text Summarization App
+# 🦜 Langchain - Chat Analyzer
 ```
 Text Summarization App built using Langchain and Streamlit
 ```
